@@ -2,23 +2,78 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to GetSecurity\n\n\nThis site is setup to provide live, collaborative information security documentation.  It is a personal project site in my field of work, but is also open to more skilled and experienced practitioners who wish to get involved.  Please contribute, see below.\n\n\nYou will find \"Getting Started\" guidance as well as technical implemntation documentation, tooling options and scripting resources.\n\n\nDocumentation provided on this site will follow industry standards, based on \nISO 27001:2013\n, \nAustralian Signals Directorate (ASD)\n,  \nSANS\n, \nNIST\n, \nCIS\n, \nNational Cyber Security Center (NCSC)\n\n\nWho is this for?\n\n\nThese pages are for low resourced information security and privacy teams to provide free essential security requirements to apply to your workplace.\n\n\nWant to contribute?\n\n\nI am a github beginner, so please contact me through an \"issue\" to help setup the contribution piece.", 
-            "title": "Welcome to GetSecurity"
+            "text": "Welcome to GetSecurity\n\n\nThis site is setup to provide live, collaborative information security documentation.  It is a personal project site in my field of work, but is also open to more skilled and experienced practitioners who wish to get involved.  Please contribute, see below.\n\n\nYou will find \nGetting Started\n guidance as well as technical implementation documentation, tooling options and scripting resources.\n\n\nDocumentation provided on this site will follow industry standards, based on \nISO 27001:2013\n, \nAustralian Signals Directorate (ASD)\n,  \nSANS\n, \nNIST\n, \nCIS\n, \nNational Cyber Security Center (NCSC)\n\n\nWho is this for?\n\n\nIt's for you and your organisation!  If you don't know where to start with Cyber/Information Security or Information Privacy, this is a place to get started.\n\n\nThese pages are primarily for low resourced, tiny/small business information security and privacy teams to provide free essential security requirements to apply to your workplace.\n\n\nWant to contribute?\n\n\nI guess clone it, change it, then submit a pull request.\n\n\nI am a github beginner, so please contact me through an \"issue\" to help setup the contribution piece.", 
+            "title": "Home"
         }, 
         {
             "location": "/#welcome-to-getsecurity", 
-            "text": "This site is setup to provide live, collaborative information security documentation.  It is a personal project site in my field of work, but is also open to more skilled and experienced practitioners who wish to get involved.  Please contribute, see below.  You will find \"Getting Started\" guidance as well as technical implemntation documentation, tooling options and scripting resources.  Documentation provided on this site will follow industry standards, based on  ISO 27001:2013 ,  Australian Signals Directorate (ASD) ,   SANS ,  NIST ,  CIS ,  National Cyber Security Center (NCSC)", 
+            "text": "This site is setup to provide live, collaborative information security documentation.  It is a personal project site in my field of work, but is also open to more skilled and experienced practitioners who wish to get involved.  Please contribute, see below.  You will find  Getting Started  guidance as well as technical implementation documentation, tooling options and scripting resources.  Documentation provided on this site will follow industry standards, based on  ISO 27001:2013 ,  Australian Signals Directorate (ASD) ,   SANS ,  NIST ,  CIS ,  National Cyber Security Center (NCSC)", 
             "title": "Welcome to GetSecurity"
         }, 
         {
             "location": "/#who-is-this-for", 
-            "text": "These pages are for low resourced information security and privacy teams to provide free essential security requirements to apply to your workplace.", 
+            "text": "It's for you and your organisation!  If you don't know where to start with Cyber/Information Security or Information Privacy, this is a place to get started.  These pages are primarily for low resourced, tiny/small business information security and privacy teams to provide free essential security requirements to apply to your workplace.", 
             "title": "Who is this for?"
         }, 
         {
             "location": "/#want-to-contribute", 
-            "text": "I am a github beginner, so please contact me through an \"issue\" to help setup the contribution piece.", 
+            "text": "I guess clone it, change it, then submit a pull request.  I am a github beginner, so please contact me through an \"issue\" to help setup the contribution piece.", 
             "title": "Want to contribute?"
+        }, 
+        {
+            "location": "/start-here/", 
+            "text": "Security Essentials\n\n\nThere is a lot of fancy technology that floods the Info/IT Security conferences, podcasts and blog-casts, most of them including artificial intelligence and machine learning. Every security company under the sun are offering capabilities to \u201chunt\u201d the threat actor and usually provide a beautiful 3D rendered reporting experience, detailing some sort of deep analysis into a security incident, hack or breach.\n\n\nAll of this is really really cool, it\u2019s glamorous, and somewhat easy to sell to upper management, unfortunately though, I feel the huge majority of businesses in every sector, every vertical and every corner of our round globe, need something else.\n\n\nIn this article I\u2019m will talk about the absolute essentials that you need to put in place in your business, and you need to do it before buying the cool stuff mentioned above.\n\n\nThis articles is written for those that are more concerned with providing demonstrate-able satisfyingly answers to your customers, the industry and the governing bodies, when you have to make breach notifications.  This article assumes that you will be breached, and so incident response is at the core message.\n\n\nKnow who you are and what you have\n\n\nIt all starts with this. If you don\u2019t know what\u2019s at the core of the business, go and find out.  Meet with the right people and understand the purpose behind the existence of the company.  Side Note, if you don\u2019t already know this, why are you working there in the first place.  If InfoSec is just a job for you, I hope and pray this article gets you some inspiration and brings your joy back! \n\n\nAsset Management\n\n\nIt is essential to know what you have and what you are trying to protect.\n\n Inventory every single thing that connects to your network.  If it has power and an IP address, catalog it. Document a record of its IP, Name, Purpose, owner, SME\n\n Any node that you can\u2019t populate the above fields for, plan to decommission it.\n\n Inventory all software running on the above hardware, servers, computers.\n\n Get C-Level or higher, sponsored policies to reduce software running that doesn\u2019t build the business.\n\n\nVulnerability \n Patch Management\n\n\nNow that you know what you have, and what you need to protect, now you need to keep it up to date and patch its vulnerabilities.\n\n Depending on your environment, apply your vendors provided software and hardware updates as soon as manageable. This is the highest purposed BAU someone needs to do. The updates team, will prevent more breach than any of the popular red and blue teams ever will. They need to be honoured more.\n\n Scan your Infrastructure for known vulnerabilities, patch them and prevent exploitation.\n* BROWSERS are your perimeter.  It is essential to run secure browser software. Patch browsers before you patch servers\n\n\nKnow who has access to your assets\n\n\nHow do you protect an information asset if you don\u2019t know who has access to it and what level of access they have?\n\n\nAccess Control\n\n\nDocument a record of who has access to what for your assets.  Include \n\n\nknow what\u2019s happening\n\n\nThis one requires investment of time, people, and possible money.\n\n\nLogging\n\n\nLogging is where you record and store machine data for x number of days, that you can submit as evidence for incident response.\n\n If you have AD start with Windows Event Forwarding (WEF).  Enable Windows Advanced Audit Logging with GP for all servers and workstations connected to your domain.\n\n If you have resources, you can go a step further and look at the Elasticsearch stack or Splunk, and you can not just store your logs, but go and do further analysis, get notifications for security events and even trigger automated remediation steps.  But HEY! Warning!, this is not essential if you don\u2019t have the basics outlined in this article in place first.\n\n\nKnow your people\n\n\nLast but definitely not least, spend time with real people, go and look at their workflow, teach them, coach them \u201chow\u201d and \u201cwhy\u201d.  Teach them how to inspect links so that they don\u2019t click bad ones. \n\n\nInvest some of your time each week to raise awareness with your colleagues and other workers, to show them some basic email compromise indicators, like unknown email domains, a mis-matching sender address and display name.\n\n\nTrain your people to not get phished", 
+            "title": "Start Here"
+        }, 
+        {
+            "location": "/start-here/#security-essentials", 
+            "text": "There is a lot of fancy technology that floods the Info/IT Security conferences, podcasts and blog-casts, most of them including artificial intelligence and machine learning. Every security company under the sun are offering capabilities to \u201chunt\u201d the threat actor and usually provide a beautiful 3D rendered reporting experience, detailing some sort of deep analysis into a security incident, hack or breach.  All of this is really really cool, it\u2019s glamorous, and somewhat easy to sell to upper management, unfortunately though, I feel the huge majority of businesses in every sector, every vertical and every corner of our round globe, need something else.  In this article I\u2019m will talk about the absolute essentials that you need to put in place in your business, and you need to do it before buying the cool stuff mentioned above.  This articles is written for those that are more concerned with providing demonstrate-able satisfyingly answers to your customers, the industry and the governing bodies, when you have to make breach notifications.  This article assumes that you will be breached, and so incident response is at the core message.", 
+            "title": "Security Essentials"
+        }, 
+        {
+            "location": "/start-here/#know-who-you-are-and-what-you-have", 
+            "text": "It all starts with this. If you don\u2019t know what\u2019s at the core of the business, go and find out.  Meet with the right people and understand the purpose behind the existence of the company.  Side Note, if you don\u2019t already know this, why are you working there in the first place.  If InfoSec is just a job for you, I hope and pray this article gets you some inspiration and brings your joy back!", 
+            "title": "Know who you are and what you have"
+        }, 
+        {
+            "location": "/start-here/#asset-management", 
+            "text": "It is essential to know what you have and what you are trying to protect.  Inventory every single thing that connects to your network.  If it has power and an IP address, catalog it. Document a record of its IP, Name, Purpose, owner, SME  Any node that you can\u2019t populate the above fields for, plan to decommission it.  Inventory all software running on the above hardware, servers, computers.  Get C-Level or higher, sponsored policies to reduce software running that doesn\u2019t build the business.", 
+            "title": "Asset Management"
+        }, 
+        {
+            "location": "/start-here/#vulnerability-patch-management", 
+            "text": "Now that you know what you have, and what you need to protect, now you need to keep it up to date and patch its vulnerabilities.  Depending on your environment, apply your vendors provided software and hardware updates as soon as manageable. This is the highest purposed BAU someone needs to do. The updates team, will prevent more breach than any of the popular red and blue teams ever will. They need to be honoured more.  Scan your Infrastructure for known vulnerabilities, patch them and prevent exploitation.\n* BROWSERS are your perimeter.  It is essential to run secure browser software. Patch browsers before you patch servers", 
+            "title": "Vulnerability &amp; Patch Management"
+        }, 
+        {
+            "location": "/start-here/#know-who-has-access-to-your-assets", 
+            "text": "How do you protect an information asset if you don\u2019t know who has access to it and what level of access they have?", 
+            "title": "Know who has access to your assets"
+        }, 
+        {
+            "location": "/start-here/#access-control", 
+            "text": "Document a record of who has access to what for your assets.  Include", 
+            "title": "Access Control"
+        }, 
+        {
+            "location": "/start-here/#know-whats-happening", 
+            "text": "This one requires investment of time, people, and possible money.", 
+            "title": "know what\u2019s happening"
+        }, 
+        {
+            "location": "/start-here/#logging", 
+            "text": "Logging is where you record and store machine data for x number of days, that you can submit as evidence for incident response.  If you have AD start with Windows Event Forwarding (WEF).  Enable Windows Advanced Audit Logging with GP for all servers and workstations connected to your domain.  If you have resources, you can go a step further and look at the Elasticsearch stack or Splunk, and you can not just store your logs, but go and do further analysis, get notifications for security events and even trigger automated remediation steps.  But HEY! Warning!, this is not essential if you don\u2019t have the basics outlined in this article in place first.", 
+            "title": "Logging"
+        }, 
+        {
+            "location": "/start-here/#know-your-people", 
+            "text": "Last but definitely not least, spend time with real people, go and look at their workflow, teach them, coach them \u201chow\u201d and \u201cwhy\u201d.  Teach them how to inspect links so that they don\u2019t click bad ones.   Invest some of your time each week to raise awareness with your colleagues and other workers, to show them some basic email compromise indicators, like unknown email domains, a mis-matching sender address and display name.", 
+            "title": "Know your people"
+        }, 
+        {
+            "location": "/start-here/#train-your-people-to-not-get-phished", 
+            "text": "", 
+            "title": "Train your people to not get phished"
         }
     ]
 }
