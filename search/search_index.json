@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to GetSecurity\n\n\nThis site is setup to provide live, collaborative information security documentation.  It is a personal project site in my field of work, but is also open to more skilled and experienced practitioners who wish to get involved.  Please contribute, see below.\n\n\nYou will find \"Getting Started\" guidance as well as technical implemntation documentation, tooling options and scripting resources.\n\n\nDocumentation provided on this site will follow industry standards, based on \nISO 27001:2013\n, \nAustralian Signals Directorate (ASD)\n,  \nSANS\n, \nNIST\n, \nCIS\n, \nNational Cyber Security Center (NCSC)\n\n\nWho is this for?\n\n\nThese pages are for low resourced information security and privacy teams to provide free essential security requirements to apply to your workplace.\n\n\nWant to contribute?\n\n\nThis site is built with \nmkdocs\n and published to Github.com.  You can do all the git things.\n\n\n..", 
+            "text": "Welcome to GetSecurity\n\n\nThis site is setup to provide live, collaborative information security documentation.  It is a personal project site in my field of work, but is also open to more skilled and experienced practitioners who wish to get involved.  Please contribute, see below.\n\n\nYou will find \"Getting Started\" guidance as well as technical implemntation documentation, tooling options and scripting resources.\n\n\nDocumentation provided on this site will follow industry standards, based on \nISO 27001:2013\n, \nAustralian Signals Directorate (ASD)\n,  \nSANS\n, \nNIST\n, \nCIS\n, \nNational Cyber Security Center (NCSC)\n\n\nWho is this for?\n\n\nThese pages are for low resourced information security and privacy teams to provide free essential security requirements to apply to your workplace.\n\n\nWant to contribute?\n\n\nI am a github beginner, so please contact me through an \"issue\" to help setup the contribution piece.", 
             "title": "Welcome to GetSecurity"
         }, 
         {
@@ -17,7 +17,7 @@
         }, 
         {
             "location": "/#want-to-contribute", 
-            "text": "This site is built with  mkdocs  and published to Github.com.  You can do all the git things.  ..", 
+            "text": "I am a github beginner, so please contact me through an \"issue\" to help setup the contribution piece.", 
             "title": "Want to contribute?"
         }
     ]
