@@ -90,46 +90,40 @@
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
         <li class="main active"><a href="#security-essentials">Security Essentials</a></li>
-            <li><a href="#know-who-you-are-and-what-you-have">Know who you are and what you have</a></li>
-            <li><a href="#know-who-has-access-to-your-assets">Know who has access to your assets</a></li>
-            <li><a href="#know-whats-happening">know what’s happening</a></li>
-            <li><a href="#know-your-people">Know your people</a></li>
+            <li><a href="#1-know-who-you-are">1. Know who you are</a></li>
+            <li><a href="#2-know-what-you-have">2. Know what you have</a></li>
+            <li><a href="#3-know-who-has-access-to-it">3. Know who has access to it</a></li>
+            <li><a href="#4-know-whats-happening">4. Know what’s happening</a></li>
+            <li><a href="#0-know-your-people">0. Know your people</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
 <h1 id="security-essentials">Security Essentials</h1>
-<p>There is a lot of fancy technology that floods the Info/IT Security conferences, podcasts and blog-casts, most of them including artificial intelligence and machine learning. Every security company under the sun are offering capabilities to “hunt” the threat actor and usually provide a beautiful 3D rendered reporting experience, detailing some sort of deep analysis into a security incident, hack or breach.</p>
-<p>All of this is really really cool, it’s glamorous, and somewhat easy to sell to upper management, unfortunately though, I feel the huge majority of businesses in every sector, every vertical and every corner of our round globe, need something else.</p>
-<p>In this article I’m will talk about the absolute essentials that you need to put in place in your business, and you need to do it before buying the cool stuff mentioned above.</p>
-<p>This articles is written for those that are more concerned with providing demonstrate-able satisfyingly answers to your customers, the industry and the governing bodies, when you have to make breach notifications.  This article assumes that you will be breached, and so incident response is at the core message.</p>
-<h2 id="know-who-you-are-and-what-you-have">Know who you are and what you have</h2>
-<p>It all starts with this. If you don’t know what’s at the core of the business, go and find out.  Meet with the right people and understand the purpose behind the existence of the company.  Side Note, if you don’t already know this, why are you working there in the first place.  If InfoSec is just a job for you, I hope and pray this article gets you some inspiration and brings your joy back! </p>
-<h3 id="asset-management">Asset Management</h3>
-<p>It is essential to know what you have and what you are trying to protect.
-<em> Inventory every single thing that connects to your network.  If it has power and an IP address, catalog it. Document a record of its IP, Name, Purpose, owner, SME
-</em> Any node that you can’t populate the above fields for, plan to decommission it.
-<em> Inventory all software running on the above hardware, servers, computers.
-</em> Get C-Level or higher, sponsored policies to reduce software running that doesn’t build the business.</p>
-<h3 id="vulnerability-patch-management">Vulnerability &amp; Patch Management</h3>
-<p>Now that you know what you have, and what you need to protect, now you need to keep it up to date and patch its vulnerabilities.
-<em> Depending on your environment, apply your vendors provided software and hardware updates as soon as manageable. This is the highest purposed BAU someone needs to do. The updates team, will prevent more breach than any of the popular red and blue teams ever will. They need to be honoured more.
-</em> Scan your Infrastructure for known vulnerabilities, patch them and prevent exploitation.
-* BROWSERS are your perimeter.  It is essential to run secure browser software. Patch browsers before you patch servers</p>
-<h2 id="know-who-has-access-to-your-assets">Know who has access to your assets</h2>
+<p>I mentioned on the home page about fancy Cyber Tech, well it's definitely super cool.  I love reading those blogs about how to "hunt", red &amp; blue teams, penetration testing and toolings, truly epic.. All of that stuff is awesome, but it targets a very specific organisation and skill-set, not to mention the sponsorship required to implement it.</p>
+<p>I feel the huge majority of businesses in every sector, every vertical and every corner of our round globe, need something else.</p>
+<blockquote>
+<p><strong>And so this site is all about the work required BEFORE an organisation, business or start-up invests in the cool stuff.</strong></p>
+</blockquote>
+<p>In this article I will talk about the <strong>absolute essentials</strong> that you need to put in place in your business, and you need to do it before buying the glamourous tech mentioned above.</p>
+<h2 id="1-know-who-you-are">1. Know who you are</h2>
+<p>It all starts with this. If you don’t know what’s at the core of the business, go and find out.  Meet with the right people and understand the purpose behind the existence of the company.  </p>
+<blockquote>
+<p>Side Note, if you don’t already know this, why are you working there in the first place.  If InfoSec is just a job for you, I hope and pray this article gets you some inspiration and brings your joy back!</p>
+</blockquote>
+<p><a href="..#contribute">help me write this</a></p>
+<h2 id="2-know-what-you-have">2. Know what you have</h2>
+<p>This is all about stock take, inventory and registers, go and document an inventory of Information Assets.</p>
+<p><a href="..#contribute">help me write this</a></p>
+<h2 id="3-know-who-has-access-to-it">3. Know who has access to it</h2>
 <p>How do you protect an information asset if you don’t know who has access to it and what level of access they have?</p>
-<h3 id="access-control">Access Control</h3>
-<p>Document a record of who has access to what for your assets.  Include </p>
-<h2 id="know-whats-happening">know what’s happening</h2>
+<p><a href="..#contribute">help me write this</a></p>
+<h2 id="4-know-whats-happening">4. Know what’s happening</h2>
 <p>This one requires investment of time, people, and possible money.</p>
-<h3 id="logging">Logging</h3>
-<p>Logging is where you record and store machine data for x number of days, that you can submit as evidence for incident response.
-<em> If you have AD start with Windows Event Forwarding (WEF).  Enable Windows Advanced Audit Logging with GP for all servers and workstations connected to your domain.
-</em> If you have resources, you can go a step further and look at the Elasticsearch stack or Splunk, and you can not just store your logs, but go and do further analysis, get notifications for security events and even trigger automated remediation steps.  But HEY! Warning!, this is not essential if you don’t have the basics outlined in this article in place first.</p>
-<h2 id="know-your-people">Know your people</h2>
-<p>Last but definitely not least, spend time with real people, go and look at their workflow, teach them, coach them “how” and “why”.  Teach them how to inspect links so that they don’t click bad ones. </p>
-<p>Invest some of your time each week to raise awareness with your colleagues and other workers, to show them some basic email compromise indicators, like unknown email domains, a mis-matching sender address and display name.</p>
-<h3 id="train-your-people-to-not-get-phished">Train your people to not get phished</h3></div>
+<p><a href="..#contribute">help me write this</a></p>
+<h2 id="0-know-your-people">0. Know your people</h2>
+<p>Last but definitely not least, you have to know your internal and external customer.  This is all about training.  Spend time with real people, go and look at their workflow, teach them, coach them “how's” and “why's” of Information Security.</p>
+<p><a href="..#contribute">help me write this</a></p></div>
         </div>
 
         <footer class="col-md-12">
