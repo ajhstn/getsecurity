@@ -30,3 +30,10 @@ Helping me build the table of contents, or writing a "chapter" or just modifying
 
 > We can't do everything, but we must do something.
 
+1. Get https://mkdocs.org
+2. Fork/Clone https://github.com/ajhstn/getsecurity.git
+3. Write amazing things
+4. Submit a Pull Request
+
+<div class="alert alert-info" role="alert">
+Side note:  I have actually never hosted a collaborative repository, so i definitely need help how this works, and to provide collaborators the best workflow possible.</div>
