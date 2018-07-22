@@ -24,8 +24,9 @@ Even big business, don't have the basics sorted, which is apparent in all of the
 
 ## Want to contribute?
 
-Awesome, because i need help!  I need your help writing chapters and topics.
+Awesome, because together we can make the internet a safer place!
 
-So.. I guess clone it, write it, then submit a pull request.
+Helping me build the table of contents, or writing a "chapter" or just modifying what's already here, just get in there.
 
-However, I am a github beginner, so please contact me through an "issue" to help setup the contribution piece.
+> We can't do everything, but we must do something.
+
