@@ -3,10 +3,12 @@ site_url: https://ajhstn.github.io
 site_description: Information Security for everyone.
 site_author: Andrew Huddleston
 repo_url: https://github.com/ajhstn/getsecurity
-#remote_branch: master
 
 pages:
   - Home: 
     - Home: index.md
     - Toc: toc.md
-  - Start Here: start-here.md
+    - Change Log: change-log.md
+  - Start Here: 
+    - Security Essentials: start-here.md
+    - Access Control: record-of-access.md
