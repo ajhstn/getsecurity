@@ -8,7 +8,7 @@ This is a personal project site in my field of work, however, it is much bigger 
 
 This is not a blog site, instead a documentation site, for you to read like a book and apply where necessary.
 
-Why not check out [Getting Started](start-here.md) to learn about the **5 Essential Security safeguards**.
+Why not check out [Getting Started](https://ajhstn.github.io/start-here.html) to learn about the **5 Essential Security safeguards**.
 
 Documentation provided on this site will follow industry standards, based on [ISO 27001:2013](https://www.iso.org/home.html), [Australian Signals Directorate (ASD)](https://www.asd.gov.au/infosec/acsc.htm),  [SANS](https://www.sans.org/), [NIST](https://www.nist.gov/), [CIS](https://www.cisecurity.org/controls/), [National Cyber Security Center (NCSC)](https://www.ncsc.gov.uk/), as well as Privacy Laws like GDPR.
 
