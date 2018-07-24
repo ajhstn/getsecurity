@@ -1,20 +1,29 @@
+# Chapters & Topics
+
 # GetSecurity
 
 * [Home](index.md)
 
 ## Start Here
 * Know who you are (Organisation Context)
-* Know what you have (Asset Management)
+* Know what you have
+    * Asset Management
     * Hardware Inventory
     * Software Inventory
-    * Record an Information Asset Register
-    * Record of Asset Ownership
-* Know who has access to it (Access Control)
+    * Information Asset Register
+* Know who has access to it
+    * Access Control
     * [Record of Access](record-of-access.md)
     * Securing Priviledged Accounts
-* Know what’s happening (Logging)
+    * Password Policy
+* Know what’s happening
+    * Logging and monitoring
     * Enable Audit Logging
     * Centralise Logging
+    * Vulnerability management
+    * Patching and software updates
     * Integrate with your SIEM
 * Know your people
-
+    * Train then
+    * Raise awareness
+    * Teach then not to click
