@@ -2,7 +2,7 @@
 
 > This site is setup to provide free, self-serve, living, collaborative Information Security documentation.  
 
-The inspiration behind it is basic, namely, we simply are not applying [Information Security Essentials](start-here.md) in our workplace, and instead, we are chasing after fancy Cyber Security solutions, AI and Machine Learning.  I'm definitely not against any of that, but if we can't even get our [Password Policy](password-policy.md) right, we are putting people's privacy, and our company at risk!
+The inspiration behind it is basic, namely, we simply are not applying Information Security Essentials in our workplace, and instead, we are chasing after fancy Cyber Security solutions, AI and Machine Learning.  I'm definitely not against any of that, but if we can't even get our [Password Policy](password-policy.md) right, we are putting people's privacy, and our company at risk!
 
 This is a personal project site in my field of work, however, it is much bigger than me, and so it is also open to more skilled and experienced security practitioners who wish to get involved.  Please contribute, see below.
 
