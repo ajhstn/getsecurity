@@ -10,7 +10,7 @@
     * Asset Management
     * Hardware Inventory
     * Software Inventory
-    * Information Asset Register
+    * [Information Asset Register](information-asset-register.md)
 * Know who has access to it
     * Access Control
     * [Record of Access](record-of-access.md)
