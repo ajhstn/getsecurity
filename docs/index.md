@@ -1,4 +1,4 @@
-# Welcome to GetSecurity <small class="text-muted">.. get it?</small>
+# Welcome to GetSecurity <small class="text-muted">.. information security documentation for everyone</small>
 
 > This site is setup to provide free, self-serve, living, collaborative Information Security documentation.  
 
