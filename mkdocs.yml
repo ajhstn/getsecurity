@@ -12,4 +12,4 @@ pages:
   - Start Here: 
     - Security Essentials: security-essentials.md
     - Know what you have:
-      - Information Asset Register: information-asset-register.md
+      - Information Asset Register: 'know/information-asset-register.md'
