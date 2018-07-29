@@ -1,10 +1,7 @@
 # Chapters & Topics
 
-# GetSecurity
 
 * [Home](index.md)
-
-## Start Here
 * Know who you are (Organisation Context)
 * Know what you have
     * Asset Management
