@@ -10,5 +10,6 @@ pages:
     - Toc: toc.md
     - Change Log: change-log.md
   - Start Here: 
-    - Security Essentials: start-here.md
-    - Access Control: record-of-access.md
+    - Security Essentials: security-essentials.md
+    - Know what you have:
+      - Information Asset Register: information-asset-register.md
