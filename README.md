@@ -16,5 +16,4 @@ Helping me build the table of contents, or writing a "chapter" or just modifying
 3. Write amazing things
 4. Submit a Pull Request
 
-<div class="alert alert-info" role="alert">
-Side note:  I have actually never hosted a collaborative repository, so i definitely need help how this works, and to provide collaborators the best workflow possible.</div>
+Side note:  I have actually never hosted a collaborative repository, so i definitely need help how this works, and to provide collaborators the best workflow possible.
