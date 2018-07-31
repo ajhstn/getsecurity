@@ -1,8 +1,0 @@
-[submodule "ajhstn.github.io"]
-	path = ajhstn.github.io
-	url = git@github.com:ajhstn/ajhstn.github.io.git
-	branch = master
-[submodule "site"]
-	path = site
-	url = git@github.com:ajhstn/ajhstn.github.io.git
-	branch = master
