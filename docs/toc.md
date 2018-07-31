@@ -1,13 +1,12 @@
 # Chapters & Topics
 
-
 * [Home](index.md)
 * Know who you are (Organisation Context)
 * Know what you have
     * Asset Management
     * Hardware Inventory
     * Software Inventory
-    * [Information Asset Register](information-asset-register.md)
+    * [Information Asset Register](/know/information-asset-register.md)
 * Know who has access to it
     * Access Control
     * [Record of Access](record-of-access.md)
