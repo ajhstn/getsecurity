@@ -3,8 +3,6 @@ Information Security for everyone.
 
 > This site is setup to provide free, self-serve, living, collaborative Information Security documentation.  
 
-check out the site here, https://ajhstn.github.io then come back and contribue if you want to help out!
-
 ## Want to contribute?
 
 Awesome, because together we can make the internet a safer place!
