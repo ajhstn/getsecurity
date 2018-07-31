@@ -3,6 +3,8 @@ Information Security for everyone.
 
 > This site is setup to provide free, self-serve, living, collaborative Information Security documentation.  
 
+check out the site here, https://ajhstn.github.io/getsecurity/ then come back and contribue if you want to help out!
+
 ## Want to contribute?
 
 Awesome, because together we can make the internet a safer place!
@@ -16,4 +18,5 @@ Helping me build the table of contents, or writing a "chapter" or just modifying
 3. Write amazing things
 4. Submit a Pull Request
 
-Side note:  I have actually never hosted a collaborative repository, so i definitely need help how this works, and to provide collaborators the best workflow possible.
+<div class="alert alert-info" role="alert">
+Side note:  I have actually never hosted a collaborative repository, so i definitely need help how this works, and to provide collaborators the best workflow possible.</div>
