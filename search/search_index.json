@@ -1,0 +1,94 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to GetSecurity \n.. Information Security documentation for everyone\n\n\n\n\nThis site is setup to provide free, self-serve, living, collaborative Information Security documentation.  \n\n\n\n\nThe inspiration behind it is basic, namely, we simply are not applying \nInformation Security Essentials\n in our workplace, and instead, we are chasing after fancy Cyber Security solutions, AI and Machine Learning.  I'm definitely not against any of that, but if we can't even get our \nPassword Policy\n right, we are putting people's privacy, and our company at risk!\n\n\nThis is a personal project site, in my field of work, however, it is \nmuch bigger than me\n, and so it is also open to more skilled and experienced security practitioners and writers who wish to get involved.  Please contribute, see below.\n\n\nWhy not check out \nGetting Started\n to learn about the \n5 Essential Security safeguards\n.\n\n\nDocumentation provided on this site will follow industry standards, based on \nISO 27001:2013\n, \nAustralian Signals Directorate (ASD)\n,  \nSANS\n, \nNIST\n, \nCIS\n, \nNational Cyber Security Center (NCSC)\n, as well as Privacy Laws like GDPR.\n\n\nWho is this for?\n\n\n\n\nIt's for those that don't know where to \nbegin\n in Information Security.\n\n\nIt's for those that love documentation and want to help the internet save lives.\n\n\nIt's for lower resourced, start-ups to small business Information Security and Privacy teams to provide \nfree essential security requirements, that you can apply to your workplace ASAP\n.\n\n\nIt's for those implementing an ISMS.\n\n\n\n\nEven big business, don't have the basics sorted, which is apparent in all of the public data breaches, so you should also take a look at this site.\n\n\nWant to contribute?\n\n\nAwesome, because together we can make the internet a safer place!\n\n\nHelping me build the table of contents, or writing a \"chapter\" or just modifying what's already here, just get in there.\n\n\n\n\nWe can't do everything, but we must do something.\n\n\n\n\n\n\nGet https://mkdocs.org\n\n\nFork/Clone https://github.com/ajhstn/getsecurity.git\n\n\nWrite amazing things\n\n\nSubmit a Pull Request\n\n\n\n\n\nSide note:  I have actually never hosted a collaborative repository, so i definitely need help how this works, and to provide collaborators the best workflow possible.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-getsecurity-information-security-documentation-for-everyone", 
+            "text": "This site is setup to provide free, self-serve, living, collaborative Information Security documentation.     The inspiration behind it is basic, namely, we simply are not applying  Information Security Essentials  in our workplace, and instead, we are chasing after fancy Cyber Security solutions, AI and Machine Learning.  I'm definitely not against any of that, but if we can't even get our  Password Policy  right, we are putting people's privacy, and our company at risk!  This is a personal project site, in my field of work, however, it is  much bigger than me , and so it is also open to more skilled and experienced security practitioners and writers who wish to get involved.  Please contribute, see below.  Why not check out  Getting Started  to learn about the  5 Essential Security safeguards .  Documentation provided on this site will follow industry standards, based on  ISO 27001:2013 ,  Australian Signals Directorate (ASD) ,   SANS ,  NIST ,  CIS ,  National Cyber Security Center (NCSC) , as well as Privacy Laws like GDPR.", 
+            "title": "Welcome to GetSecurity .. Information Security documentation for everyone"
+        }, 
+        {
+            "location": "/#who-is-this-for", 
+            "text": "It's for those that don't know where to  begin  in Information Security.  It's for those that love documentation and want to help the internet save lives.  It's for lower resourced, start-ups to small business Information Security and Privacy teams to provide  free essential security requirements, that you can apply to your workplace ASAP .  It's for those implementing an ISMS.   Even big business, don't have the basics sorted, which is apparent in all of the public data breaches, so you should also take a look at this site.", 
+            "title": "Who is this for?"
+        }, 
+        {
+            "location": "/#want-to-contribute", 
+            "text": "Awesome, because together we can make the internet a safer place!  Helping me build the table of contents, or writing a \"chapter\" or just modifying what's already here, just get in there.   We can't do everything, but we must do something.    Get https://mkdocs.org  Fork/Clone https://github.com/ajhstn/getsecurity.git  Write amazing things  Submit a Pull Request   \nSide note:  I have actually never hosted a collaborative repository, so i definitely need help how this works, and to provide collaborators the best workflow possible.", 
+            "title": "Want to contribute?"
+        }, 
+        {
+            "location": "/toc/", 
+            "text": "Chapters \n Topics\n\n\n\n\nHome\n\n\nKnow who you are (Organisation Context)\n\n\nKnow what you have\n\n\nAsset Management\n\n\nHardware Inventory\n\n\nSoftware Inventory\n\n\nInformation Asset Register\n\n\n\n\n\n\nKnow who has access to it\n\n\nAccess Control\n\n\nRecord of Access\n\n\nSecuring Priviledged Accounts\n\n\nPassword Policy\n\n\n\n\n\n\nKnow what\u2019s happening\n\n\nLogging and monitoring\n\n\nEnable Audit Logging\n\n\nCentralise Logging\n\n\nVulnerability management\n\n\nPatching and software updates\n\n\nIntegrate with your SIEM\n\n\n\n\n\n\nKnow your people\n\n\nTrain then\n\n\nRaise awareness\n\n\nTeach then not to click", 
+            "title": "Toc"
+        }, 
+        {
+            "location": "/toc/#chapters-topics", 
+            "text": "Home  Know who you are (Organisation Context)  Know what you have  Asset Management  Hardware Inventory  Software Inventory  Information Asset Register    Know who has access to it  Access Control  Record of Access  Securing Priviledged Accounts  Password Policy    Know what\u2019s happening  Logging and monitoring  Enable Audit Logging  Centralise Logging  Vulnerability management  Patching and software updates  Integrate with your SIEM    Know your people  Train then  Raise awareness  Teach then not to click", 
+            "title": "Chapters &amp; Topics"
+        }, 
+        {
+            "location": "/change-log/", 
+            "text": "Change Log\n\n\nJuly 2018\n\n\n\n\nadding Table of Contents\n\n\nadding Record of Access", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/change-log/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/change-log/#july-2018", 
+            "text": "adding Table of Contents  adding Record of Access", 
+            "title": "July 2018"
+        }, 
+        {
+            "location": "/security-essentials/", 
+            "text": "Security Essentials\n\n\nI mentioned on the home page about fancy Cyber Tech, well it's definitely super cool.  I love reading those blogs about how to \"hunt\", red \n blue teams, penetration testing and toolings, truly epic.. All of that stuff is awesome, but it targets a very specific organisation and skill-set, not to mention the sponsorship required to implement it.\n\n\nI feel the huge majority of businesses in every sector, every vertical and every corner of our round globe, need something else.\n\n\n\n\nAnd so this site is all about the work required BEFORE an organisation, business or start-up invests in the cool stuff.\n\n\n\n\nIn this article I will talk about the \nabsolute essentials\n that you need to put in place in your business, and you need to do it before buying the glamourous tech mentioned above.\n\n\n1. Know who you are\n\n\nIt all starts with this. This is all about the business.  If you don\u2019t know what\u2019s at the core of the business you work for, go and find out.  Go and meet with the right people and understand the purpose behind the existence of the company.  \n\n\n\n\nSide Note, if you don\u2019t already know this.. pause..  If Info. Sec. is just a job for you, I hope and pray this article gets you some inspiration and brings your joy back!\n\n\n\n\nhelp me write this\n\n\n2. Know what you have\n\n\nNow that we know who we are, lets identify what we have.\n\n\nThis is all about stock take, inventory and asset registers.  \nGo and document an inventory of the things you need to protect.\n\n\n\n\nWe can only protect what we know about.\n\n\n\n\nhelp me write this\n\n\n3. Know who has access to it\n\n\nThis is all about process. \nGo and record a document of who has access to what.\n\n\n\n\nHow do you protect an information asset if you don\u2019t know who has access to it and what level of access they have?\n\n\n\n\nhelp me write this\n\n\n4. Know what\u2019s happening\n\n\nThis is all about auditing and logging.  \nGo and log what's happening in your netowrk and environment.\n\n\nhelp me write this\n\n\n0. Know your people\n\n\nLastly, but possibly priority zero, you have to know your internal customer and employees.  This is all about training and spending time with real people. \nGo and look at their workflow, teach them, coach them in the \u201chow's\u201d and \u201cwhy's\u201d of Information Security.\n\n\nhelp me write this\n.", 
+            "title": "Security Essentials"
+        }, 
+        {
+            "location": "/security-essentials/#security-essentials", 
+            "text": "I mentioned on the home page about fancy Cyber Tech, well it's definitely super cool.  I love reading those blogs about how to \"hunt\", red   blue teams, penetration testing and toolings, truly epic.. All of that stuff is awesome, but it targets a very specific organisation and skill-set, not to mention the sponsorship required to implement it.  I feel the huge majority of businesses in every sector, every vertical and every corner of our round globe, need something else.   And so this site is all about the work required BEFORE an organisation, business or start-up invests in the cool stuff.   In this article I will talk about the  absolute essentials  that you need to put in place in your business, and you need to do it before buying the glamourous tech mentioned above.", 
+            "title": "Security Essentials"
+        }, 
+        {
+            "location": "/security-essentials/#1-know-who-you-are", 
+            "text": "It all starts with this. This is all about the business.  If you don\u2019t know what\u2019s at the core of the business you work for, go and find out.  Go and meet with the right people and understand the purpose behind the existence of the company.     Side Note, if you don\u2019t already know this.. pause..  If Info. Sec. is just a job for you, I hope and pray this article gets you some inspiration and brings your joy back!   help me write this", 
+            "title": "1. Know who you are"
+        }, 
+        {
+            "location": "/security-essentials/#2-know-what-you-have", 
+            "text": "Now that we know who we are, lets identify what we have.  This is all about stock take, inventory and asset registers.   Go and document an inventory of the things you need to protect.   We can only protect what we know about.   help me write this", 
+            "title": "2. Know what you have"
+        }, 
+        {
+            "location": "/security-essentials/#3-know-who-has-access-to-it", 
+            "text": "This is all about process.  Go and record a document of who has access to what.   How do you protect an information asset if you don\u2019t know who has access to it and what level of access they have?   help me write this", 
+            "title": "3. Know who has access to it"
+        }, 
+        {
+            "location": "/security-essentials/#4-know-whats-happening", 
+            "text": "This is all about auditing and logging.   Go and log what's happening in your netowrk and environment.  help me write this", 
+            "title": "4. Know what\u2019s happening"
+        }, 
+        {
+            "location": "/security-essentials/#0-know-your-people", 
+            "text": "Lastly, but possibly priority zero, you have to know your internal customer and employees.  This is all about training and spending time with real people.  Go and look at their workflow, teach them, coach them in the \u201chow's\u201d and \u201cwhy's\u201d of Information Security.  help me write this .", 
+            "title": "0. Know your people"
+        }, 
+        {
+            "location": "/know/information-asset-register/", 
+            "text": "Information Asset Register\n\n\nThe Information Asset Register is a documented record of all of your information assets, especially those that process or hold personal information.\n\n\nAn information asset could be an file, database, system or process etc. Your company issued computer is an information asset and a should be recorded.\n\n\nIn the register you could include the system name, the asset owner and what type of information it processes.\n\n\nIt important to record this information, so that you can include it in a risk assesment.", 
+            "title": "Information Asset Register"
+        }, 
+        {
+            "location": "/know/information-asset-register/#information-asset-register", 
+            "text": "The Information Asset Register is a documented record of all of your information assets, especially those that process or hold personal information.  An information asset could be an file, database, system or process etc. Your company issued computer is an information asset and a should be recorded.  In the register you could include the system name, the asset owner and what type of information it processes.  It important to record this information, so that you can include it in a risk assesment.", 
+            "title": "Information Asset Register"
+        }
+    ]
+}
